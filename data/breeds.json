@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Golden Retriever",
+      "size": "Large",
+      "energy_level": "High",
+      "grooming_needs": "Moderate",
+      "compatibility_with_kids": "High",
+      "image_url": "/public/golden.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Persian Cat",
+      "size": "Medium",
+      "energy_level": "Low",
+      "grooming_needs": "High",
+      "compatibility_with_kids": "Moderate",
+      "image_url": "/public/persian.jpg"
+    }
+  ]
+  
